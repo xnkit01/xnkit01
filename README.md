@@ -10,7 +10,7 @@ I'm a passionate **programmer** and **ethical hacker** with a keen interest in *
 - 🔒 **Cyber Security**: Ethical hacking, penetration testing, network security
 - 🎨 **Hobbies**: Anime enthusiast, tech blogger, open-source contributor
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or check out my [portfolio](https://www.yourportfolio.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com) or check out my [portfolio](https://xnkit01.github.io/Portfolio/).
 
 ---
 
